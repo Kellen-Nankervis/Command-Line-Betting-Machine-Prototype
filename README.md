@@ -145,4 +145,4 @@ public static void userSimMenu(Bet[] completedBets, Bet[] ongoingBets, Bet[] upc
 Since this project has no value returning methods I have no JUnit tests.
 
 ## Contributors
-Myself
+Kellen Nankervis
