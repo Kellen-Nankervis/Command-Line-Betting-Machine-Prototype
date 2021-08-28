@@ -8,7 +8,7 @@ I built this as my final project for CSCI 1111. I had a motivation for this proj
 
 ## How to Run
 To run the program you will need BettingMachine.java, Bet.java, userbet.java, and Account.java. To start you will run BettingMachine.java
-[Here is what you'll see when you begin the program](running.png)
+[Here is what you'll see when you begin the program](Command-Line-Betting-Machine-Prototype/Command-Line-Betting-Machine-Prototype/running.png)
 
 ## Code Example
 I am proud of this method that lets the user simulates bets that they might want to play on either with implied odds or with their own odds.
